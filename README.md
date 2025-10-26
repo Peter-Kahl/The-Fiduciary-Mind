@@ -40,4 +40,4 @@ v1 published in Great Britain by Lex et Ratio Ltd, 2025-10-26.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
-Licence available at https://creativecommons.org/licenses/by-nc-nd/4.0/ .
+Licence: https://creativecommons.org/licenses/by-nc-nd/4.0/ .
