@@ -2,7 +2,7 @@
 
 ### Phenomenology and Epistemic Psychology
 
-_Part II of The Fiduciary Architecture of Mind_
+_Part II of the research series The Fiduciary Architecture of Mind_
 
 ---
 
